@@ -13,6 +13,18 @@ A minimalist e-commerce platform built with Next.js 15 and TypeScript, using dat
 - 🤝 [Contributing](#-contributing)
 - 📜 [License](#-license)
 
+## 👨‍💻 My Contribution
+
+- 👖 The product page, using search params to fetch data based on filters like categories and product title in a server component, then passing it down to a client component.
+- 📝 Update- and Create product routes, using a reuseable ProductForm component. The form itself uses a server action for its form action, then utilizes useActionState and Zod schemas to give the user feedback.
+- 🕵️ Analyzing accessibility and SEO using the WAVE extension, as well as Google's Lighthouse feature.
+
+## 🧬 Further Development Possibilities
+
+- 🗃️ Add Create-, Update- and Delete functionalities for categories.
+- 🛒 Flesh out and complete the shopping cart to display all added items, using state a management library like Redux
+- ➗ Adding more filters to the /product page, for example min/max pricing and making the search bar look in the description too.
+
 ## 📖 About the project
 
 This is a group exercise focused on building a minimalist e-commerce platform to practise modern web development patterns.
