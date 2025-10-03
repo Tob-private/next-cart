@@ -2,17 +2,6 @@
 
 A minimalist e-commerce platform built with Next.js 15 and TypeScript, using data from [Platzi's GraphQL API](https://fakeapi.platzi.com/en/gql/products/). Features server-side rendering and streaming, real-time search, authentication with Clerk and an admin dashboard with CRUD functionality.
 
-## 📑 Contents
-
-- 📖 [About the project](#-about-the-project)
-- ✨ [Features](#-features)
-- 🛠 [Technologies Used](#-technologies)
-- ⚙️ [Installation](#-installation)
-- 📂 [Project Structure](#-project-structure)
-- 🚀 [Workflow](#-workflow)
-- 🤝 [Contributing](#-contributing)
-- 📜 [License](#-license)
-
 ## 👨‍💻 My Contribution
 
 - 👖 The product page, using search params to fetch data based on filters like categories and product title in a server component, then passing it down to a client component.
@@ -24,6 +13,17 @@ A minimalist e-commerce platform built with Next.js 15 and TypeScript, using dat
 - 🗃️ Add Create-, Update- and Delete functionalities for categories.
 - 🛒 Flesh out and complete the shopping cart to display all added items, using state a management library like Redux
 - ➗ Adding more filters to the /product page, for example min/max pricing and making the search bar look in the description too.
+
+## 📑 Contents
+
+- 📖 [About the project](#-about-the-project)
+- ✨ [Features](#-features)
+- 🛠 [Technologies Used](#-technologies)
+- ⚙️ [Installation](#-installation)
+- 📂 [Project Structure](#-project-structure)
+- 🚀 [Workflow](#-workflow)
+- 🤝 [Contributing](#-contributing)
+- 📜 [License](#-license)
 
 ## 📖 About the project
 
